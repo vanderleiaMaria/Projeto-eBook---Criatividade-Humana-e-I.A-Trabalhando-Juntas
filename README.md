@@ -19,6 +19,6 @@ Este projeto visa criar um eBook com o auxílio de ferramentas de Inteligência 
 
 ### 🧠 Bing
 
-- Solicitei para criar imagens com logo da aws e servilos da aws nas nuvens
+- Solicitei para criar imagens com logo da aws e serviços da aws nas nuvens
 
 <br/>:heartpulse: Por Vanderléia de Jesus
